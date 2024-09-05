@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\employee_data storage in D drive\bin\Debug\employee_data storage in D drive.exe.config
+D:\EQ SOFT\C#\employee_data storage in D drive\bin\Debug\employee_data storage in D drive.exe
+D:\EQ SOFT\C#\employee_data storage in D drive\bin\Debug\employee_data storage in D drive.pdb
+D:\EQ SOFT\C#\employee_data storage in D drive\obj\Debug\employee_data storage in D drive.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\employee_data storage in D drive\obj\Debug\employee_data storage in D drive.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\employee_data storage in D drive\obj\Debug\employee_data storage in D drive.exe
+D:\EQ SOFT\C#\employee_data storage in D drive\obj\Debug\employee_data storage in D drive.pdb
